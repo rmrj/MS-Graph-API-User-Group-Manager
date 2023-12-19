@@ -21,6 +21,9 @@ This tool utilizes the Microsoft Graph API to manage user groups based on applic
    pip install msal requests
 ## Set the required environment variables:
 export MSAL_CLIENT_ID='Your-Client-ID'
+
 export MSAL_CLIENT_SECRET='Your-Client-Secret'
+
 export MSAL_TENANT_ID='Your-Tenant-ID'
+
 export CUSTOM_DOMAIN='Your-Custom-Domain'
